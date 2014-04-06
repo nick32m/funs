@@ -3,7 +3,7 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        :categories/:year/:month/:day/:title/
+permalink:        pretty
 
 # Setup
 title:            Lanyon
@@ -22,3 +22,6 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/nick32m/funs
+
+
+baseurl:		  /funs
