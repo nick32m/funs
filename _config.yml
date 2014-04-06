@@ -3,7 +3,7 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        {{ site.baseurl }}{{ post.url }}
 
 # Setup
 title:            Lanyon
