@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A fun video haha
+title: A fun video ha
 ---
 
 
